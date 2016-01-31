@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppPayDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="app_continue">继续</string>
+    <string name="app_tip">提示</string>
+    <string name="getting_access_token">正在获取access token...</string>
+	<string name="get_access_token_succ">获取access token成功</string>
+	<string name="get_access_token_fail" formatted="false">获取access token失败，原因%s</string>
+	<string name="getting_prepayid">正在获取预支付订单...</string>
+	<string name="paying">支付中</string>
+	<string name="get_prepayid_succ">获取prepayid成功</string>
+	<string name="get_prepayid_fail" formatted="false">获取prepayid失败，原因%s</string>
+	<string name="unifiedorder_v3_wx">APP支付生成预支付订单</string>
+	<string name="pay__pre_by_wxap">生成APP微信支付参数</string>
+	<string name="pay_by_wxap">调起微信支付</string>
+	<string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+
+</resources>
